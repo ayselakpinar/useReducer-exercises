@@ -1,11 +1,8 @@
-import './App.css';
+import "./App.css";
+import Counter from "./ex1/Counter.jsx";
 
 function App() {
-  return (
-    <div className="App">
-     
-    </div>
-  );
+  return <Counter />;
 }
 
 export default App;
